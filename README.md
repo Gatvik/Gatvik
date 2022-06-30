@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gatvik
-- 👀 I’m interested in software engineering and in back-end development
-- 🌱 I’m currently learning Golang and C#/.NET(ASP.NET MVC)
+- 👀 I’m interested in software engineering and in full-stack development
+- 🌱 I’m currently learning C#/.NET(ASP.NET MVC) and React.js
 - 📫 How to reach me: 
-- - - Telegram: @Evaloneg
+- - - Telegram: @Gatvik
 
 
